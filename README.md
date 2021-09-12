@@ -1,1 +1,1 @@
-# cryptocurrency-price-predictor.ipynb
+# cryptocurrency-price-predictor
